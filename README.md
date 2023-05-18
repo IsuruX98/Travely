@@ -22,8 +22,6 @@
 
 ### Member 8 - IT21184444 - Sumanasekara W.H.U - (it21184444)
 
-('test' branch used to resolve conflicts )
-
 #### Brief Description of Project - Travely is an innovative startup that offers a comprehensive travel and tourism management system. The system simplifies the process of booking and managing travel by providing a one-stop shop website where travelers can easily organize their trips, book hotels, rental cars, restaurants, events, tour packages, and customized tours. It also offers detailed information about every location and real-time availability and pricing information. Overall, Travely's system provides a personalized and stress-free travel experience for travelers who want to properly plan their trips.
 
 #### Technologies used - MERN Stack
