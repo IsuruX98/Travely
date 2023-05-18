@@ -1,4 +1,5 @@
 # Project Name - Tourism and Travel management system (Travely)
+Original one is integrated in SLIIT organization's private repository
 
 ![IMG_4269](https://github.com/IsuruX98/Travely/assets/104721314/6363b329-bf0d-4f96-82fe-add9268a8f23)
 
